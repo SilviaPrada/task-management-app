@@ -37,6 +37,8 @@ Aplikasi manajemen tugas sederhana menggunakan Flutter. Aplikasi ini dapat menam
 | <img src="documentation/update_task.png" alt="Screenshot of update_task" width="250"/> | Formulir untuk mengedit tugas yang ada. Pengguna dapat memperbarui judul dan deskripsi tugas. |
 | <img src="documentation/delete.png" alt="Screenshot of delete" width="250"/> | Konfirmasi penghapusan tugas yang menanyakan apakah pengguna yakin ingin menghapus tugas. |
 | <img src="documentation/delete_success.png" alt="Screenshot of delete_success" width="250"/> | Tampilan setelah tugas berhasil dihapus dari daftar tugas. |
+| <img src="documentation/update_task.png" alt="Screenshot of update_task" width="250"/> | Tampilan saat salah satu list tugas diklik untuk mengedit judul dan status tugas. |
+| <img src="documentation/update_success.png" alt="Screenshot of update_success" width="250"/> | Tampilan setelah tugas berhasil diupdate. |
 
 
 
