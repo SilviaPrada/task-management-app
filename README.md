@@ -19,11 +19,6 @@ Aplikasi manajemen tugas sederhana menggunakan Flutter. Aplikasi ini dapat menam
 5. **Jalankan Aplikasi Flutter**  
    Kembali ke direktori root project dengan perintah `cd ..`. Kemudian, jalankan perintah `flutter run` di terminal atau pilih opsi "Run" dari file `main.dart` di VSCode untuk menjalankan aplikasi Flutter.
 
-
-# Task Management App
-
-Aplikasi manajemen tugas sederhana menggunakan Flutter. Aplikasi ini dapat menampilkan daftar tugas, menambahkan tugas baru, mengedit tugas yang ada, dan menghapus tugas. Semua data tugas harus disimpan dan diambil melalui REST API.
-
 ## Fitur dan Penggunaan
 
 | Screenshot | Keterangan |
