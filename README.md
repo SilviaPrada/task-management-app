@@ -34,11 +34,11 @@ Aplikasi manajemen tugas sederhana menggunakan Flutter. Aplikasi ini dapat menam
 | <img src="documentation/filter_completed.png" alt="Screenshot of filter_completed" width="250"/> | Tampilan ketika daftar tugas difilter untuk hanya menampilkan tugas yang telah diselesaikan. |
 | <img src="documentation/filter_incomplete.png" alt="Screenshot of filter_incomplete" width="250"/> | Tampilan ketika daftar tugas difilter untuk hanya menampilkan tugas yang belum diselesaikan. |
 | <img src="documentation/search.png" alt="Screenshot of search" width="250"/> | Fitur pencarian yang memungkinkan pengguna mencari tugas tertentu berdasarkan kata kunci. |
-| <img src="documentation/update_task.png" alt="Screenshot of update_task" width="250"/> | Formulir untuk mengedit tugas yang ada. Pengguna dapat memperbarui judul dan deskripsi tugas. |
+| <img src="documentation/update.png" alt="Screenshot of update_task" width="250"/> | Formulir untuk mengedit tugas yang ada. Pengguna dapat memperbarui judul dan deskripsi tugas. |
+| <img src="documentation/update_success.png" alt="Screenshot of update_success" width="250"/> | Tampilan setelah tugas berhasil diupdate. |
 | <img src="documentation/delete.png" alt="Screenshot of delete" width="250"/> | Konfirmasi penghapusan tugas yang menanyakan apakah pengguna yakin ingin menghapus tugas. |
 | <img src="documentation/delete_success.png" alt="Screenshot of delete_success" width="250"/> | Tampilan setelah tugas berhasil dihapus dari daftar tugas. |
-| <img src="documentation/update.png" alt="Screenshot of update_task" width="250"/> | Tampilan saat salah satu list tugas diklik untuk mengedit judul dan status tugas. |
-| <img src="documentation/update_success.png" alt="Screenshot of update_success" width="250"/> | Tampilan setelah tugas berhasil diupdate. |
+
 
 
 
